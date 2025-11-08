@@ -15,12 +15,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      
+
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          COMMIT_MESSAGE: 'Atualizando WakaTime Stats'
-          SHOW_OS: false
-          SHOW_TIMEZONE: false
           SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          COMMIT_MESSAGE: 'Atualizando WakaTime Stats 💻'
