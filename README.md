@@ -24,6 +24,8 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 ---
 
 #### 💻 Meu Dashboard Digital de Codificação (WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
