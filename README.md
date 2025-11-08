@@ -15,7 +15,7 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 ---
 
-### 📊 GitHub Stats
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&show_icons=true&theme=dark&count_private=true" width="55%" />
@@ -39,12 +39,6 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
     <img alt="React" title="React" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     <img alt="Next.js" title="Next.js" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
     <img alt="Bootstrap" title="Bootstrap" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-    <img alt="Tailwind" title="Tailwind" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-    <img alt="SASS" title="SASS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-    <img alt="PHP" title="PHP" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-    <img alt="Laravel" title="Laravel" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-    <img alt="JQuery" title="JQuery" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg"/>
-    <img alt="Git" title="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="Python" title="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
 
@@ -53,32 +47,24 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 ---
 
-### 🚀 Projetos em Andamento
+### 📚 Currently Learning 
 
-<div align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <a href="#" style="text-decoration:none;">
-    <div style="background:#1e1e2f; border-radius:10px; padding:20px; width:280px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.3); transition: transform 0.2s;">
-      <h3 style="color:#ffffff;">Clone TabNews</h3>
-      <p style="color:#cfcfcf; font-size:14px;">Recriação da plataforma de notícias TabNews usando React, Tailwind e Node.js.</p>
-      <p style="color:#36a3f7; font-weight:bold; font-size:13px;">React • Tailwind • Node.js</p>
-    </div>
-  </a>
-
-  <a href="#" style="text-decoration:none;">
-    <div style="background:#1e1e2f; border-radius:10px; padding:20px; width:280px; text-align:center; box-shadow:0 4px 10px rgba(0,0,0,0.3); transition: transform 0.2s;">
-      <h3 style="color:#ffffff;">Sistema Oficina</h3>
-      <p style="color:#cfcfcf; font-size:14px;">Iniciação de projeto para gestão de oficina, com PHP, Laravel e MySQL.</p>
-      <p style="color:#36a3f7; font-weight:bold; font-size:13px;">PHP • Laravel • MySQL</p>
-    </div>
-  </a>
-
-</div>
-
+   <p align="center">
+        <img alt="Docker" title="Docker" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+        <img alt="Kubernetes" title="Kubernetes" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"/>
+        <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+        <img alt="ESLint" title="ESLint" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg"/>
+        <img alt="Prettier" title="Prettier" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg"/>
+        <img alt="Jest" title="Jest" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+        <img alt="Vercel" title="Vercel" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"/>
+        <img alt="GitHub Actions" title="GitHub Actions" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
+        <img alt="Postman" title="Postman" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+        <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+    </p>
 
 ---
 
-### 📫 Contato
+### 📫Contact
 
 <p align="center">
   <a href="https://discord.com/users/seunome"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
