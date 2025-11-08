@@ -11,11 +11,11 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      # Use a versão V6 (corrigida) da Action
-      - uses: anmol098/waka-readme-stats@v6 
+      # Usando o commit hash estável para contornar o problema de tag/versão
+      - uses: anmol098/waka-readme-stats@a1a5453a290c01a755d642880c54178385f94947 
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           wakatime_apikey: ${{ secrets.WAKATIME_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }} 
           theme: "aura"
           show_loc: "False"
           show_days_of_week: "False"
