@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Roda uma vez por dia à meia-noite UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Checkout do Repositório (Recomendado usar v4)
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+        
+      # 2. Geração da Cobra (Usando v3, a versão mais estável)
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Matheus-Ceciliano # Seu nome de usuário
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          
+      # 3. Commit e Push dos Arquivos Gerados (Recomendado usar v9)
+      - name: Commit and Push Snake SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          branch: main # OU master, dependendo do seu branch principal
+          message: 'Gerando a Cobra de Contribuição'
+          add: 'dist/github-contribution-grid-snake.svg'
