@@ -14,34 +14,11 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 ---
 
-## 🔗 Conecte-se Comigo
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/matheus-ceciliano-duarte-5549ab18b" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Matheus Ceciliano"/>
-    </a>
-    <a href="https://www.instagram.com/matheus.ceciliano/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Matheus Ceciliano"/>
-    </a>
-    <a href="mailto:matheusduartececiliano@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Matheus Ceciliano"/>
-    </a>
-    <a href="https://github.com/Matheus-Ceciliano?tab=followers" target="_blank">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Matheus-Ceciliano?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-    </a>
-</p>
-
----
-
-## 📊 Estatísticas e Dedicação
-
-<p align="center">
-    <img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    <img align="right" alt="Tecnologias Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
-<br clear="both">
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
 
 
 ---
@@ -50,9 +27,8 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-#### 🛠️ A caixa de ferramentas FullStack em constante crescimento.
+###  💻 Tech Stack ⚡
+#### 🛠️ Minhas Habilidades para FullStack em constante crescimento.
 
 <p align="center">
     <img alt="HTML5" title="HTML" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -70,12 +46,6 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
     <img alt="Git" title="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="Python" title="Python" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </p>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=dark&background=0D1117" alt="GitHub Streak Stats" />
-    
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Matheus-Ceciliano.Matheus-Ceciliano" alt="Contador de Visitantes"/>
-</p>
-<br>
 
-<div align="center"> 
-![(https://github.com/Matheus-Ceciliano/Matheus-Ceciliano/blob/output/github-snake-dark.svg)</div>
+
+![snake gif](https://github.com/Matheus-Ceciliano/Matheus-Ceciliano/blob/output/github-snake-dark.svg)
