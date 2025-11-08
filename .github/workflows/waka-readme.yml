@@ -1,0 +1,27 @@
+name: WakaTime Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Roda a cada 24 horas (meia-noite UTC)
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@v5
+        with:
+          # Seu nome de usuário do GitHub
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Sua chave de API do WakaTime (SECRETA)
+          wakatime_apikey: ${{ secrets.WAKATIME_API_KEY }}
+          # Sua preferência de tema para combinar com o perfil
+          theme: "aura"
+          # Permite mostrar ou ocultar seções específicas do card
+          show_loc: "False"
+          show_days_of_week: "False"
+          show_short_info: "False"
+          # O título da seção que será atualizada no README.md
+          SECTION_NAME: 'waka'
