@@ -1,23 +1,23 @@
-name: WakaTime Readme
+name: Waka Readme
 
 on:
-  workflow_dispatch:
   schedule:
-    # Roda a cada 24 horas (meia-noite UTC)
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
+permissions: # <--- Adicione este bloco
+  contents: write
 jobs:
-  update-readme:
-    name: Update Readme with WakaTime Stats
+  update-readme-with-wakatime:
+    name: WakaTime Readme Stats
     runs-on: ubuntu-latest
     steps:
-      # Usando o commit hash estável para contornar o problema de tag/versão
-      - uses: anmol098/waka-readme-stats@a1a5453a290c01a755d642880c54178385f94947 
+      - uses: actions/checkout@v4
+      
+      # USANDO A ACTION OFICIAL DO WAKATIME
+      - uses: wakatime/docs-action@master 
         with:
-          wakatime_apikey: ${{ secrets.WAKATIME_API_KEY }}
-          github_token: ${{ secrets.GITHUB_TOKEN }} 
-          theme: "aura"
-          show_loc: "False"
-          show_days_of_week: "False"
-          show_short_info: "False"
-          SECTION_NAME: 'waka'
+          # Sua chave de API do WakaTime (SECRETA)
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # O arquivo que deve ser atualizado
+          COMMIT_BY_ACTION: true
