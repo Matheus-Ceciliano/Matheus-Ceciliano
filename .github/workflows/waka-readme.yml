@@ -6,23 +6,21 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # Permissão necessária para fazer o commit das estatísticas no README
+  contents: write
 
 jobs:
   update-readme-with-wakatime:
     name: WakaTime Readme Stats
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
       
-      # USANDO O CAMINHO MAIS ATUAL E ESTÁVEL
-      - uses: wakatime/wakatime-github-action@master # <--- Caminho Corrigido!
+      - uses: athul/waka-readme@master
         with:
-          # Sua chave de API do WakaTime (SECRETA)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # O parâmetro que define o local onde o card será inserido no README
-          # Ele usa as tags SECTION_NAME: 'waka'
-          # Configurações de tema para combinar com seu perfil (Aura)
+          SHOW_TITLE: true
           COMMIT_MESSAGE: 'Atualizando WakaTime Stats'
-          SHOW_OS: 'false'
-          SHOW_TIME_ZONE: 'false'
+          SHOW_OS: false
+          SHOW_TIMEZONE: false
+          SECTION_NAME: waka
