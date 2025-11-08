@@ -15,10 +15,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # USANDO O CAMINHO CORRETO E OFICIAL DA ACTION
-      - uses: wakatime/wakatime-readme-action@v1 # <--- Caminho corrigido!
+      # USANDO O CAMINHO MAIS ATUAL E ESTÁVEL
+      - uses: wakatime/wakatime-github-action@master # <--- Caminho Corrigido!
         with:
           # Sua chave de API do WakaTime (SECRETA)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # O título do card que será exibido
+          # O parâmetro que define o local onde o card será inserido no README
+          # Ele usa as tags SECTION_NAME: 'waka'
+          # Configurações de tema para combinar com seu perfil (Aura)
           COMMIT_MESSAGE: 'Atualizando WakaTime Stats'
+          SHOW_OS: 'false'
+          SHOW_TIME_ZONE: 'false'
