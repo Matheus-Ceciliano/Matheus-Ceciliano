@@ -2,11 +2,12 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Roda diariamente à meia-noite UTC
   workflow_dispatch:
 
-permissions: # <--- Adicione este bloco
-  contents: write
+permissions:
+  contents: write # Permissão necessária para fazer o commit das estatísticas no README
+
 jobs:
   update-readme-with-wakatime:
     name: WakaTime Readme Stats
@@ -14,10 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # USANDO A ACTION OFICIAL DO WAKATIME
-      - uses: wakatime/docs-action@master 
+      # USANDO O CAMINHO CORRETO E OFICIAL DA ACTION
+      - uses: wakatime/wakatime-readme-action@v1 # <--- Caminho corrigido!
         with:
           # Sua chave de API do WakaTime (SECRETA)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # O arquivo que deve ser atualizado
-          COMMIT_BY_ACTION: true
+          # O título do card que será exibido
+          COMMIT_MESSAGE: 'Atualizando WakaTime Stats'
