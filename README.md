@@ -24,10 +24,21 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 ---
 
 #### 💻 Meu Dashboard Digital de Codificação (WakaTime)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<div align="center">
+  
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusCecilianoDuarte&theme=aura&hide_border=true&layout=compact)](https://wakatime.com/@MatheusCecilianoDuarte)
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ManojSatishkumar/analog-clock-live/master/assets/clock-dark.gif" width="200" alt="Relógio Analógico"/>
+
+> ⏰ **Tempo total de codificação:** atualizado automaticamente via [WakaTime](https://wakatime.com/@MatheusCecilianoDuarte)
+  
+</div>
 
 ---
+
 
 ###  💻 Tech Stack ⚡
 #### 🛠️ Minhas Habilidades para FullStack em constante crescimento.
