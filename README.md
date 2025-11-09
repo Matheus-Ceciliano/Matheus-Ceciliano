@@ -92,11 +92,9 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
   <a href="https://discord.com/users/THEUS_10"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://www.facebook.com/matheus.ceciliano/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/matheus.ceciliano/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/seunome"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.twitch.tv/seunome"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
-  <a href="https://twitter.com/seunome"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/></a>
-</p>
-
+  <a href="https://www.linkedin.com/in/matheus-ceciliano-duarte-5549ab18b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.twitch.tv/matheus_ceciliano"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+ 
 <div align="center">
     
   ![snake gif](https://github.com/Matheus-Ceciliano/Matheus-Ceciliano/blob/output/github-snake-dark.svg)
