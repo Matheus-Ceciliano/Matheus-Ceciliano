@@ -62,7 +62,6 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
         <img alt="Bootstrap" title="Bootstrap" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
         <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
         <img alt="SASS" title="SASS" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
-        <img alt="SWR" title="SWR" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swr/swr-original.svg"/>
         <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
         <img alt="MongoDB" title="MongoDB" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
         <img alt="Git" title="Git" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
@@ -79,11 +78,12 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
         <img alt="YAML" title="YAML" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"/>
         <img alt="SQL" title="SQL" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
         <img alt="MongoDB" title="MongoDB" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>     
-       <img alt="AWS" title="Amazon Web Services" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+        <img alt="AWS" title="Amazon Web Services" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
         <img alt="Linux" title="Linux" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
         <img alt="Terminal Linux" title="Terminal Linux" width="40px" style="padding: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"/>
-    </p>
+          </p>
 </div>
+
 ---
 
 ### 📫Contact
