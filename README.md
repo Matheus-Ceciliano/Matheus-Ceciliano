@@ -89,7 +89,7 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 ### 📫Contact
 
 <p align="center">
-  <a href="[https://discord.com//THEUS_10](https://discord.com/channels/@me/1383587325698900022)"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://discord.com/channels/@me/1383587325698900022"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   <a href="https://www.facebook.com/seunome"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/seunome"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.linkedin.com/in/seunome"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
