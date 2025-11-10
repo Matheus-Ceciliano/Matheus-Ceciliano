@@ -89,26 +89,6 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 </div>
 
 ---
-## 🎯 Metas e Objetivos 2024
-
-### 🎓 **Acadêmicos**
-- [ ] Concluir 2º período de SI com média acima de 8.0
-- [ ] Participar de 3+ eventos de tecnologia
-- [ ] Desenvolver projeto de conclusão de período
-
-### 💻 **Desenvolvimento**
-- [ ] Completar curso FullStack do Curso.dev
-- [ ] Desenvolver 5+ projetos práticos
-- [ ] Contribuir para 1 projeto open source
-- [ ] Dominar React e Node.js
-
-### 🚀 **Profissional**
-- [ ] Conseguir primeiro estágio em desenvolvimento
-- [ ] Construir portfolio com 10+ projetos
-- [ ] Network com 50+ profissionais da área
-- [ ] Preparar currículo focado em tech
-
----
 
 ## 📫 Vamos Conversar?
 
