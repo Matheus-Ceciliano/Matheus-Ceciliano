@@ -1,6 +1,9 @@
-# 🌟 Matheus Ceciliano Duarte
+<!-- Light/Dark Mode -->
+<div align="center">
 
-### **<img src="https://media.giphy.com/media/QvRj1JpD1y9gT4X67p/giphy.gif" width="30"/> Desenvolvedor em Formação | Estudante de Sistemas de Informação**
+![header](https://capsule-render.vercel.app/api?type=waving&color=38b96b&height=150&section=header&text=Matheus%20Ceciliano%20Duarte&fontSize=40&fontColor=ffffff)
+
+</div>
 
 <div align="start">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B96B&center=true&width=755&height=61&lines=Codando+e+aprendendo+todos+os+dias;Desenvolvedor+FullStack+em+formação;Estudando+na+ESUP%2FFGV;Estudante+do+Curso.Dev+me+Tornando+um+Desenvolvedor+competente" alt="Typing SVG" />
@@ -23,9 +26,14 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&theme=aura&hide_border=true&show_icons=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=aura&hide_border=true" />
+
+<br/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&layout=compact&theme=aura&hide_border=true" />
+
 </div>
 
 ---
@@ -87,17 +95,30 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 ---
 
-## 📫 Vamos Conversar?
 
-<p align="center">
-  <a href="https://discord.com/users/THEUS_10"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.facebook.com//matheus.cecilianoduarte.3/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/matheus.ceciliano/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/matheus-ceciliano-duarte-5549ab18b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.twitch.tv/matheus_ceciliano"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
-</p>
+# 🌐 Redes e Contato
 
 <div align="center">
-    
-  ![snake gif](https://github.com/Matheus-Ceciliano/Matheus-Ceciliano/blob/output/github-snake-dark.svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-ceciliano-duarte-5549ab18b)
+[![Instagram](https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.ceciliano/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/THEUS_10)
+[![Twitch](https://img.shields.io/badge/Twitch-9146ff?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/matheus_ceciliano)
+
 </div>
+
+---
+
+# 🕒 Timeline da Minha Jornada
+
+<div align="center">
+
+```mermaid
+timeline
+    title Matheus Ceciliano — Linha do Tempo
+    2024 : Início na Programação
+    2025 : Início da Faculdade ESUP/FGV
+    2025 : Primeiro contato com HTML, CSS, JS
+    2025 : Descoberta do Curso.Dev
+    2025 : Aprendizado contínuo — FullStack & DevOps
+    2026 : Construção de projetos profissionais
