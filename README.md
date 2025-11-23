@@ -23,12 +23,9 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&show_icons=true&theme=dark&count_private=true&custom_title=Matheus%20Ceciliano%20GitHub%20Stats" width="55%" alt="Estatísticas do GitHub de Matheus Ceciliano" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=dark&hide_border=false" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&layout=compact&theme=dark&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 ---
