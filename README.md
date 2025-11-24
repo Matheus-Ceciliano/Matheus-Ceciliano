@@ -24,16 +24,10 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 
 
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Ceciliano&theme=aura&hide_border=true&show_icons=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Ceciliano&theme=aura&hide_border=true" />
-
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ceciliano&layout=compact&theme=aura&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 ---
