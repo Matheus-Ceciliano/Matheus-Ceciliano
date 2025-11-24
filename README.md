@@ -109,16 +109,3 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 ---
 
-# 🕒 Timeline da Minha Jornada
-
-<div align="center">
-
-```mermaid
-timeline
-    title Matheus Ceciliano — Linha do Tempo
-    2024 : Início na Programação
-    2025 : Início da Faculdade ESUP/FGV
-    2025 : Primeiro contato com HTML, CSS, JS
-    2025 : Descoberta do Curso.Dev
-    2025 : Aprendizado contínuo — FullStack & DevOps
-    2026 : Construção de projetos profissionais
