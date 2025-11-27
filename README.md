@@ -119,19 +119,25 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/matheus-ceciliano-duarte-5549ab18b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="linkedin logo"  />
+
+  <a href="https://www.linkedin.com/in/matheus-ceciliano-duarte-5549ab18b" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="70" alt="LinkedIn logo" />
   </a>
-  <a href="matheus.duartececiliano@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+
+  <a href="mailto:matheus.duartececiliano@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://discord.com/users/THEUS_10" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+
+  <a href="https://discord.com/users/THEUS_10" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Discord logo" />
   </a>
-  <a href="https://www.instagram.com/matheus.ceciliano/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+
+  <a href="https://www.instagram.com/matheus.ceciliano/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram logo" />
   </a>
-  <a href="https://www.twitch.tv/matheus_ceciliano" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
+
+  <a href="https://www.twitch.tv/matheus_ceciliano" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Twitch logo" />
   </a>
+
 </div>
