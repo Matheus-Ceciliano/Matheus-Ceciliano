@@ -117,12 +117,7 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 
 </div>
 
----
-<div align="center">
-  <a href="https://open.spotify.com/user/6ixl2f06mtom2glp8q5y92vy4" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6ixl2f06mtom2glp8q5y92vy4&width=800&count=6&unique=1" alt="Spotify Recently Played" />
-  </a>
-</div>
+
 
 ---
 
@@ -151,10 +146,8 @@ Sigo aprofundando meus conhecimentos no **Curso.dev** do meu mentor e referênci
 </div>
 
 <br>
-<br>
 
-
-
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Ceciliano/Matheus-Ceciliano/output/pacman-contribution-graph-dark.svg">
